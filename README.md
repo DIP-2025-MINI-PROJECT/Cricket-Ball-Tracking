@@ -48,8 +48,6 @@ https://drive.google.com/drive/folders/1QE91bxsNMkBc9JFOlXJj6DIavCFzku0n
   2. Future Works - 
     1. Real-Time Implementation
     2. Use ML for more accuracy
-    3. Remove Sampi from team
-
   
 
 
