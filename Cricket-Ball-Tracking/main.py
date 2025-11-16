@@ -63,7 +63,7 @@ def detect_ball(mask):
     return best
 
 
-video_path = r"D:\PythonProgramsuwu\DIP project\cummins.mp4"
+video_path = r"D:\PythonProgramsuwu\DIP project\cummins.mp4" #add the link to the file here
 cap = cv.VideoCapture(video_path)
 
 kalman = create_kalman()
@@ -95,4 +95,5 @@ while True:
     if cv.waitKey(40) & 0xFF == ord('q'):
         break   
 cap.release()
+
 cv.destroyAllWindows()
