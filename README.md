@@ -42,13 +42,13 @@ https://drive.google.com/drive/folders/1QE91bxsNMkBc9JFOlXJj6DIavCFzku0n
      Adrian Kaehler
 
 **Limitations and Future Works -**
-a. Limitations - 
-  1. Looks for the color pink specifically so if the wickets/shoes are pink then it could cause issues.
-  2. Detects when there is no ball in the frame, or nothing pink in the frame.
-b. Future Works - 
-  1. Real-Time Implementation
-  2. Use ML for more accuracy
-  3. Remove Sampi from team
+  1. Limitations - 
+    1. Looks for the color pink specifically so if the wickets/shoes are pink then it could cause issues.
+    2. Detects when there is no ball in the frame, or nothing pink in the frame.
+  2. Future Works - 
+    1. Real-Time Implementation
+    2. Use ML for more accuracy
+    3. Remove Sampi from team
 
   
 
